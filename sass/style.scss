@@ -1,0 +1,139 @@
+@use "swiper_int";
+@use "all";
+@use "ali";
+
+.ululiop{
+    & li{
+        list-style: none;
+        & a {
+            text-decoration: none;
+            color: white;
+            padding: 0.5rem;
+            font-weight: bold;
+            font-size: 1.15rem;
+        }
+    }
+    & :last-child{
+        a{
+            color: rgba(0, 0, 0, 0.564);
+            background-color: white;
+            border-radius: 1rem;
+        }
+    }
+}
+.pkidznhoizd{
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    padding-left: 15rem;
+    font-weight: bolder;
+}
+.kclccftp{
+    color: rgb(255, 255, 255);
+    padding-left: 2rem;
+   font-size: x-large;
+}
+.difvminbhg{
+    background-color: rgb(224, 29, 81);
+    border-radius: 0px 0px 20px 20px;
+    
+}
+.pl-7{
+    padding-left: 7rem;
+}
+.zojighzuo{
+    background-color: rgb(224, 29, 81);
+    border-radius: 10px 10px 10px 10px;
+    top: 0px;
+    right: 15.8rem;
+    color: white;
+    
+}
+.p-44{
+    padding: 1.04rem;
+}
+.sedrsedf{
+  
+    width: 100%;
+    border-radius: .25rem;
+    border: 1px solid #0000;
+  
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  
+}
+.py-3{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    text-decoration: none;
+    color: white;
+}
+.ponoi{
+    font-weight: bold;
+}
+.bzhzjz{
+    background-color: rgb(224, 29, 81);
+    padding-bottom: 5rem;
+  
+}
+.ulul2648{
+    padding-top: 1rem;
+    & li{
+        list-style: none;
+    }
+    & a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        font-size: large;
+    }
+}
+.gaaga{
+  border-radius: 5rem;
+}
+.img1{
+    margin-right: 8rem;
+    width: 80rem
+}
+.img2{
+    border-radius: 2rem;
+}
+.mt-20{
+    margin-top: 21rem;
+}
+.ulopioy{
+   
+    & li{
+        list-style: none;
+        border-radius: 0.5rem;
+        background-color: rgba(220, 220, 220, 0.529);
+        box-shadow: 1px 5px 5px 2px rgba(0, 0, 0, 0.429);
+        padding-left: 2rem;
+        padding-right: 2rem;
+        
+        
+    }
+        & a{
+            text-decoration: none;
+           
+         
+        }
+    }
+.ponopozh{
+    font-weight: 900;
+    font-size: 1.25rem;
+    color: rgba(0, 0, 0, 0.799);
+}
+.ponoptl{
+    font-weight: 600;
+    color: #363535c7;
+}
+.mt-1{
+    margin-top: 1rem;
+}
+.ul8989898989{
+    & li{
+        list-style: none;
+    }
+}
+.pkdjh{
+    border-radius: 10rem;
+}
